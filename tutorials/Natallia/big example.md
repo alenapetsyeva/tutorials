@@ -1,3 +1,7 @@
+---
+title: # big example
+description: big example
+tags: tutorial:product/sapHana
 <!--save a copy of this file to your local repo. It's important that you follow the naming conventions by starting with the service name, and use lowercase only for the file name. See "file-names-and-locations.md" under the "contributor-guide" folder in your repo.
 
 Info to help you use the template are enclosed in the Markdown comments using the caret, hyphen, dash syntax. Delete these from your file.
