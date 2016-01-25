@@ -41,15 +41,14 @@ Here's an example that uses [cmdlet names)] to [task]. It includes commands that
 ``` 
 For cheking on mobile
 ```javascript
-	$family="Windows Server 2012 R2 Datacenter"
-	$vmname="AZDC1"
-	$vmsize="Medium"
-	$vm1 | Set-AzureSubnet -SubnetNames "BackEnd"
-	$vm1 | Set-AzureStaticVNetIP -IPAddress 192.168.244.4
-	$disksize=20
-	$disklabel="DCData"
-	$lun=0
-	$svcname="Azure-TailspinToys"
-	$vnetname="AZDatacenter"
-	New-AzureVM –ServiceName $svcname -VMs $vm1 -VNetName $vnetname
+$family="Windows Server 2012 R2 Datacenter"
+$vmname="AZDC1"
+$vmsize="Medium"
+$vm1 | Set-AzureSubnet -SubnetNames "BackEnd"
+$vm1 | Set-AzureStaticVNetIP -IPAddress 192.168.244.4
+$disksize=20
+$disklabel="DCData"
+$lun=0
+$svcname="Azure-TailspinToys"
+$vnetname="AZDatacenter"
 ``` 
