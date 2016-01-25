@@ -51,4 +51,5 @@ $disklabel="DCData"
 $lun=0
 $svcname="Azure-TailspinToys"
 $vnetname="AZDatacenter"
+$lun=1
 ``` 
