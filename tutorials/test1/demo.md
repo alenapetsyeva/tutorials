@@ -19,6 +19,8 @@ Here's an example that uses [cmdlet names)] to [task]. It includes commands that
 
 - [variable 1]
 - [variable 2]
+ 
+
 19 lines
 ```javascript
 $family="Windows Server 2012 R2 Datacenter"
