@@ -93,8 +93,12 @@ $svcname -VMs $vm1 -VNetName $vnetname
 ``` 
 
 For cheking on mobile
-6 line
+10 line
 ```javascript
+$family="Windows Server 2012 R2 Datacenter"
+$family="Windows Server 2012 R2 Datacenter"
+$image=Get-AzureVMImage | where { $_.ImageFamily -eq $family } | sort PublishedDate -Descending | select -ExpandProperty ImageName -First 1
+$image=Get-AzureVMImage | where { $_.ImageFamily -eq $family } | sort PublishedDate -Descending | 
 $family="Windows Server 2012 R2 Datacenter"
 $vmname="AZDC1"
 $vmsize="Medium"
@@ -102,24 +106,32 @@ $vm1 | Set-AzureSubnet -SubnetNames "BackEnd"
 $vm1 | Set-AzureStaticVNetIP -IPAddress 192.168.244.4
 $disksize=20
 ``` 
-7 line
+11 line
 ```javascript
 $image=Get-AzureVMImage | where { $_.ImageFamily -eq $family } | sort PublishedDate -Descending | select -ExpandProperty ImageName -First 1
+$family="Windows Server 2012 R2 Datacenter"
+$family="Windows Server 2012 R2 Datacenter"
+$image=Get-AzureVMImage | where { $_.ImageFamily -eq $family } | sort PublishedDate -Descending | select -ExpandProperty ImageName -First 1
+$image=Get-AzureVMImage | where { $_.ImageFamily -eq $family } | sort PublishedDate -Descending | 
+$family="Windows Server 2012 R2 Datacenter"
 $vmname="AZDC1"
 $vmsize="Medium"
 $vm1 | Set-AzureSubnet -SubnetNames "BackEnd"
 $vm1 | Set-AzureStaticVNetIP -IPAddress 192.168.244.4
 $disksize=20
-$disklabel="DCData"
 ``` 
-8 line
+12 line
 ```javascript
 $family="Windows Server 2012 R2 Datacenter"
-$image=Get-AzureVMImage | where { $_.ImageFamily -eq $family }
 $image=Get-AzureVMImage | where { $_.ImageFamily -eq $family } | sort PublishedDate -Descending | select -ExpandProperty ImageName -First 1
+$family="Windows Server 2012 R2 Datacenter"
+$family="Windows Server 2012 R2 Datacenter"
+$image=Get-AzureVMImage | where { $_.ImageFamily -eq $family } | sort PublishedDate -Descending | select -ExpandProperty ImageName -First 1
+$image=Get-AzureVMImage | where { $_.ImageFamily -eq $family } | sort PublishedDate -Descending | 
+$family="Windows Server 2012 R2 Datacenter"
+$vmname="AZDC1"
 $vmsize="Medium"
 $vm1 | Set-AzureSubnet -SubnetNames "BackEnd"
 $vm1 | Set-AzureStaticVNetIP -IPAddress 192.168.244.4
 $disksize=20
-$disklabel="DCData"
 ``` 
