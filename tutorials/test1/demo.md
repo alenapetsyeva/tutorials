@@ -1,7 +1,7 @@
 ---
 title: for demo
 description: for demo
-tags: tutorial:product/sapHana
+tags: [tutorial:product/sapHana, agreements:distribution_agreements]
 ---
 
 Use Azure PowerShell to [task]
