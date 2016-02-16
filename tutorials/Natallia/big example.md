@@ -1,5 +1,4 @@
 ---
-1.Go to https://account.hanatrial.ondemand.com and log in to your HCP cockpit.
 title: # big example
 description: big example
 tags: tutorial:product/sapHana
@@ -16,7 +15,7 @@ Pay attention to spacing and indents. They affect formatting.
 <!--replace this with Properties and Tags sections. These are required sections. See "article-metadata.md" in under the "contributor-guide" folder in your repo. Attributes in each section can be placed on separate lines to make them easier to read and check-->
 
 Use Azure PowerShell to [task]
-
+1.Go to https://account.hanatrial.ondemand.com and log in to your HCP cockpit.
 This article shows you how to [task], using commands from both the Azure module and the Azure Resource Manager module. This is intended to help you learn the new commands as well as migrate existing scripts to the new commands.
 
 ## Prerequisite: Install a Recent Version of Azure PowerShell
