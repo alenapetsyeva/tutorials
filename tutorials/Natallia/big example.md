@@ -2,18 +2,7 @@
 title: # big example
 description: big example
 tags: tutorial:product/sapHana
-<!--save a copy of this file to your local repo. It's important that you follow the naming conventions by starting with the service name, and use lowercase only for the file name. See "file-names-and-locations.md" under the "contributor-guide" folder in your repo.
-
-Info to help you use the template are enclosed in the Markdown comments using the caret, hyphen, dash syntax. Delete these from your file.
-
-Text not wrapped in comment syntax is intended to be used as is, or with updates enclosed in [  ]. Add the info and delete the bracket. 
-
-Pay attention to spacing and indents. They affect formatting. 
-
---> 
-
-<!--replace this with Properties and Tags sections. These are required sections. See "article-metadata.md" in under the "contributor-guide" folder in your repo. Attributes in each section can be placed on separate lines to make them easier to read and check-->
-
+---
 Use Azure PowerShell to [task]
 1.Go to https://account.hanatrial.ondemand.com and log in to your HCP cockpit.
 This article shows you how to [task], using commands from both the Azure module and the Azure Resource Manager module. This is intended to help you learn the new commands as well as migrate existing scripts to the new commands.
@@ -30,13 +19,6 @@ If you haven't done so already, install at least the [version number] version of
 ## Command Comparison
 
 This [table | section] shows the command syntax.
-
-<!--[optional image - to use an image in this article, add a folder with the same name as the article file name without extension, inside the Media folder of the repo. Use only this folder to store the images. Don't attempt to use a common folder to share images you want to use in more than 1 file.]
-Then, use the following syntax to add a reference to the image in your article:
-![](./media/name-of-file-without-extension/image-name-no-spaces.png)
--->
-
-<!--if a command string uses variables, define the variables first, using the  following construction. In some cases the variable is straightforward and doesn't need much explanation. But parameters such as location and size can benefit from brief explanation or listing all accepted values:--> 
 
 These command examples use the following variables:
 
