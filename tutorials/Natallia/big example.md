@@ -1,8 +1,4 @@
----
-title: # big example
-description: big example
-tags: [products:tech/73554900100700001033/67837800100800006853, tutorial:product/hana_studio]
----
+
 Use Azure PowerShell to [task]
 1.Go to https://account.hanatrial.ondemand.com and log in to your HCP cockpit.
 This article shows you how to [task], using commands from both the Azure module and the Azure Resource Manager module. This is intended to help you learn the new commands as well as migrate existing scripts to the new commands.
