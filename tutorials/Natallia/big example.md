@@ -1,7 +1,7 @@
 ---
 title: # big example
 description: big example
-tags: tutorial:product/sapHana
+tags:
 ---
 Use Azure PowerShell to [task]
 1.Go to https://account.hanatrial.ondemand.com and log in to your HCP cockpit.
