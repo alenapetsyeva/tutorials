@@ -1,7 +1,7 @@
 ---
 title: # big example
 description: big example
-tags:
+tags: [products:tech/73554900100700001033/67837800100800006853, tutorial:product/hana_studio]
 ---
 Use Azure PowerShell to [task]
 1.Go to https://account.hanatrial.ondemand.com and log in to your HCP cockpit.
