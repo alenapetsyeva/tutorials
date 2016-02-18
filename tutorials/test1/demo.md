@@ -1,7 +1,7 @@
 ---
 title: for demo
 description: for demo
-tags: [tutorial:product/sapHana, agreements:distribution_agreements]
+tags: [tutorial:product/sapHana, agreements:distribution_agreements, agreements:open_ecosystem_agreements/sell_partner]
 ---
 TEST
 Use Azure PowerShell to [task]
