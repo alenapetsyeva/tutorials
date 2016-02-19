@@ -21,7 +21,7 @@ Here's an example that uses [cmdlet names)] to [task]. It includes commands that
 - [variable 2]
  
 
-199 lines
+190 lines
 ```javascript
 $vm1 | Set-AzureSubnet -SubnetNames "BackEnd"
 $vm1 | Set-AzureStaticVNetIP -IPAddress 192.168.244.4
