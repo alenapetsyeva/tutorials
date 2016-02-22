@@ -1,7 +1,7 @@
 ---
 title: 22,02
 description: 22,02
-tags: [agreements>Service-Descriptions, tutorial>gateway, AGREEMENTS>Maintenance-/-Support-agreements, tutorial>Product, semaphore-rejected>SAP-Simple-Finance]
+tags: [agreements>Service-Descriptions, tutorial>gateway, AGREEMENTS>Maintenance-/-Support-agreements, tutorial>Product, semaphore-rejected>SAP-Simple-Finance, agreements:]
 ---
 TEST
 Use Azure PowerShell to [task]
