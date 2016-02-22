@@ -1,7 +1,7 @@
 ---
 title: for demo
 description: for demo
-tags: [agreements>Service-Descriptions, tutorial>gateway, AGREEMENTS>Maintenance-/-Support-agreements]
+tags: [agreements>Service-Descriptions, tutorial>gateway, AGREEMENTS>Maintenance-/-Support-agreements, BPO]
 ---
 TEST
 Use Azure PowerShell to [task]
