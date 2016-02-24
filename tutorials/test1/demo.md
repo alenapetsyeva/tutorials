@@ -1,7 +1,7 @@
 ---
 title: for demo
 description: for demo
-tags: [agreements>Service-Descriptions, tutorial>gateway, tutorial>Product, semaphore-rejected>SAP-Simple-Finance, tutorial>product>sap-ui5, tutorial>Java-Connector-API-(JCo), agreements>maintenance-/-support-agreements]
+tags: [agreements>Service-Descriptions, tutorial>gateway, tutorial>Product, semaphore-rejected>SAP-Simple-Finance, tutorial>product>sap-ui5, tutorial>Java-Connector-API-(JCo), agreements>maintenance-/-support-agreements, tutorial>Servlets-/-JSP]
 ---
 TEST
 Use Azure PowerShell to [task]
