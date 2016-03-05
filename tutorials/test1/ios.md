@@ -1,7 +1,7 @@
 ---
 title: for ios
 description: for ios
-tags: [tutorial:product/sapHana, topic:266264953119842772207986043063520]
+tags:
 ---
 
 Use Azure PowerShell to [task]
