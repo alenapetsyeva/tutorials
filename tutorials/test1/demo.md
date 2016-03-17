@@ -22,7 +22,7 @@ Here's an example that uses [cmdlet names)] to [task]. It includes commands that
  
 
 
-190 lines
+190 lines_
 ```javascript
 New-AzureVM –ServiceName $svcname -VMs $vm1 -VNetName $vnetname
 $family="Windows Server 2012 R2 Datacenter"
