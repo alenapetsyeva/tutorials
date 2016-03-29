@@ -825,4 +825,6 @@ $vmname="AZDC1"
 $vmsize="Medium"
 $vmsize="Medium"
 $vmsize="Medium"
+$vmsize="Medium"
+$vmsize="Medium"
 ``` 
