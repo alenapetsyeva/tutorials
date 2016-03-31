@@ -622,7 +622,7 @@ $vmsize="Medium"
 $vmsize="Medium"
 ``` 
 
-200 lines
+201 lines
 ```javascript
 $vm1 | Set-AzureSubnet -SubnetNames "BackEnd"
 $vm1 | Set-AzureStaticVNetIP -IPAddress 192.168.244.4
@@ -822,14 +822,6 @@ $cred=Get-Credential -Message "Type the name and password of the local administr
 $vm1 | Add-AzureProvisioningConfig -Windows -AdminUsername $cred.GetNetworkCredential().Username –Password
 $image=Get-AzureVMImage | where { $_.ImageFamily -eq $family } | sort PublishedDate -Descending | 
 $vmname="AZDC1"
-$vmsize="Medium"
-$vmsize="Medium"
-$vmsize="Medium"
-$vmsize="Medium"
-$vmsize="Medium"
-$vmname="AZDC1"
-$vmsize="Medium"
-$vmsize="Medium"
 $vmsize="Medium"
 $vmsize="Medium"
 $vmsize="Medium"
