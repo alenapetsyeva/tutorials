@@ -1,7 +1,7 @@
 ---
 title: Create destination
 description: Testing tutorial tables
-tags: [111, 222]
+tags: [tutorial:interest/gettingstarted, tutorial:interest/cloud, tutorial:product/hcp, tutorial:technology/java]
 ---
 
  Details
