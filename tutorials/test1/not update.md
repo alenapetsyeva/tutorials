@@ -1,7 +1,7 @@
 ---
-title: test fir update
+title:
 description: test
-tags: 
+tags: [tutorial:interest/gettingstarted, tutorial:interest/cloud, tutorial:product/hcp, tutorial:technology/java, 123]
 ---
 
  Details
