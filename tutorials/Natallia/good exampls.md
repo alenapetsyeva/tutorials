@@ -1,7 +1,7 @@
 ---
 title: example
 description: example
-tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
+tags: [tutorial:product/sapHana, tutorial:product/hana_studio, tutorials>tt, tutorials>ttt]
 ---
 
 You can use:
