@@ -1,7 +1,7 @@
 ---
 title: for demo
 description: for demo
-tags: [tutorial>test3, tutorial>test2, agreements>Service-Descriptions, tutorial>gateway, semaphore-rejected>SAP-Simple-Finance, tutorial>product>sap-ui5, tutorial>Java-Connector-API-(JCo), agreements>maintenance-/-support-agreements, tutorial>Servlets-/-JSP, tutorial>product>mobile, language>Serbian---Latin, solution>security, tutorial>aaa, tutorial>ttt]
+tags: [tutorial>test3, tutorial>test2, agreements>Service-Descriptions, tutorial>gateway, semaphore-rejected>SAP-Simple-Finance, tutorial>product>sap-ui5, tutorial>Java-Connector-API-(JCo), agreements>maintenance-/-support-agreements, tutorial>Servlets-/-JSP, tutorial>product>mobile, language>Serbian---Latin, solution>security, tutorial>aaa, tutorial>ttt, tutorial>new-tag]
 ---
 TEST 2221   
 Use Azure PowerShell to [task] 
