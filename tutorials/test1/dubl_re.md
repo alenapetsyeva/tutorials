@@ -1,6 +1,6 @@
 ---
 title: all ok
 description: all ok
-tags: tutorial:product/sapHana
+tags: tutorial>Hana
 ---
 dubl
