@@ -1,6 +1,6 @@
 ---
 title: all ok
 description: all ok
-tags: [tutorial>mmm, tutorial>nnn, tutorial>Hana, agreements>lll2, tutorial>hana, tutorial>new1, tutorial>new2]
+tags: [tutorial>mmm, tutorial>nnn, tutorial>Hana, agreements>lll2]
 ---
 all ok2
