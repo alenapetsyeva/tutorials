@@ -2,6 +2,7 @@
 title: new may
 description: may
 tags: [agreements>Service-Descriptions, tutorial>gateway, semaphore-rejected>SAP-Simple-Finance, tutorial>product>sap-ui5, tutorial>Java-Connector-API-(JCo), agreements>maintenance-/-support-agreements, tutorial>Servlets-/-JSP, tutorial>product>mobile, language>Serbian---Latin, solution>security, agreements>aaa, tutorial>ttt, tutorial>new-tag, tutorial>test]
+qrcode: true
 ---
 Tkjbkjhbklbjhbh
 klnklnkll
