@@ -4,7 +4,7 @@ description: for demo
 tags: [tutorial>www, tutorial>www, tutorial>lll, agreements>Service-Descriptions, tutorial>gateway, semaphore-rejected>SAP-Simple-Finance, tutorial>product>sap-ui5, tutorial>Java-Connector-API-(JCo), agreements>maintenance-/-support-agreements, tutorial>Servlets-/-JSP, tutorial>product>mobile, language>Serbian---Latin, solution>security, agreements>aaa, agreements>general-Terms-&-Conditions, tutorial>ttt, tutorial>new-tag, tutorial>test, tutorial:technology/maven, redirect>types]
 qrcode: true
 ---
-TEST 2221   33    
+TEST 2221   33     
 Use Azure PowerShell to [task] 
 
 This article shows you how to [task], using commands from both the Azure module and the Azure Resource Manager module. This is intended to help you learn the new commands as well as migrate existing scripts to the new commands.
