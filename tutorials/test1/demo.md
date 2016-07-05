@@ -5,7 +5,7 @@ tags: [tutorial>www, tutorial>www, tutorial>lll, agreements>Service-Descriptions
 qrcode: true
 ---
 TEST 
-Use Azure PowerShell to [task] 
+Use Azure PowerShell to [task]  
 
  ![Image 1.png] (Image 1.png)
  
