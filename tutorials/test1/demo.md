@@ -5,9 +5,11 @@ tags: [tutorial>www, tutorial>www, tutorial>lll, agreements>Service-Descriptions
 qrcode: true
 ---
 TEST   
+
+ ![Image1] (tags.png)
 Use Azure PowerShell to [task]  
 
- ![Image 1.png] (tags.png)
+ ![Image2] (Image 1.png)
  
 This article shows you how to [task], using commands from both the Azure module and the Azure Resource Manager module. This is intended to help you learn the new commands as well as migrate existing scripts to the new commands.
 
