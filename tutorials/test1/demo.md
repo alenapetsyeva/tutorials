@@ -20,7 +20,7 @@ Here's an example that uses [cmdlet names)] to [task]. It includes commands that
 - [short verb, uses, has, is, etc]
 - [next short verb] 
 
- It includes the following variables:
+ It includes the following variables: 
 
 - [variable 1]
 - [variable 2]
